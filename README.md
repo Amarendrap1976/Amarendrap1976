@@ -2,7 +2,7 @@
 
 <p align="left">
   <img src="
-    " alt="Open to Work">
+    " alt= "Open to Work">
 </p>
 
 ### 🚀 About Me
