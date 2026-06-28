@@ -1,16 +1,16 @@
-## Hi there 👋
+" alt="Open to Work">
+</p>
 
-<!--
-**Amarendrap1976/Amarendrap1976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 About Me
+- 💼 I am currently working as a **[Manager - QA]**
+- 🌱 I’m currently refining my skills in **[Test Management, Project Management]**
+- 🎨 I specialize in Quality Engineering, Test Management, Automation Strategy, Agile, Release Governance, Stakeholder Management, and Vendor Management
+- ⚡ Fun fact: **[Love driving, Play and watch Cricket, Reading and love to explore new places]**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack & Tools
+
+#### 💻 Front-End & Design
+![HTML5](https://shields.io)
+![CSS3](
