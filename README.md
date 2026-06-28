@@ -1,4 +1,8 @@
-" alt="Open to Work">
+# Hi there, I'm Amarendra Pradhan 👋
+
+<p align="left">
+  <img src="
+    " alt="Open to Work">
 </p>
 
 ### 🚀 About Me
