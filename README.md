@@ -12,3 +12,13 @@
 - ⚡ Fun fact: **Love driving, play and watch cricket, reading, and love to explore new places**
 
 ---
+### 🤝 Connect With Me
+<p align="left">
+  <a href="https://www.linkedin.com/in/amarendrapradhan/" target="_blank">
+    <img src="
+
+---
+ alt="LinkedIn">
+  </a>
+  <a href="mailto:pradhan.amarendra@gmail.com">
+    <img src="
