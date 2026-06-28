@@ -6,8 +6,8 @@
 </p>
 
 ### 🚀 About Me
-- 💼 I am currently working as a **Manager - QA**
-- 🌱 I’m currently refining my skills in **Test Management, Project Management**
+- 💼 I worked as a **Manager - QA**
+- 🌱 I’m currently refining my skills in **Test Management,and Project Management**
 - 🎨 I specialize in Quality Engineering, Test Management, Automation Strategy, Agile, Release Governance, Stakeholder Management, and Vendor Management
 - ⚡ Fun fact: **Love driving, playing and watching cricket, reading, and love to explore new places**
 
