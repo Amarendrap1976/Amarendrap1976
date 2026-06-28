@@ -8,9 +8,3 @@
 - ⚡ Fun fact: **Love driving, play and watch cricket, reading, and love to explore new places**
 
 ---
-
-### 🛠️ Tech Stack & Tools
-
-#### 💻 Front-End & Design
-![HTML5](https://shields.io)
-![CSS3](
