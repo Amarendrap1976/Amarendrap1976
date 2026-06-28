@@ -16,8 +16,11 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/amarendrapradhan/">
     <img src="
- alt="LinkedIn">
+ " alt= "LinkedIn">
   </a>
+  <p align="left">
   <a href="mailto:pradhan.amarendra@gmail.com">
     <img src="
+    " alt= "Email">
+  </a>
 </p>
